@@ -1,0 +1,9 @@
+# ninja log v5
+16	691	7590872184492343	CMakeFiles/4100901-Access_Control_System.dir/Src/main.c.obj	98fb4f7f3354e672
+123	739	7590872184492343	CMakeFiles/4100901-Access_Control_System.dir/Src/Systick.c.obj	bdab06e59949cc42
+44	739	7590872184521928	CMakeFiles/4100901-Access_Control_System.dir/Src/gpio.c.obj	dd37a68d46f830e5
+82	739	7590872184618501	CMakeFiles/4100901-Access_Control_System.dir/Src/uart.c.obj	de604203b20e1487
+34	740	7590872185721922	CMakeFiles/4100901-Access_Control_System.dir/Src/syscall.c.obj	e39f5eba4a8429d4
+150	775	7590872185921035	CMakeFiles/4100901-Access_Control_System.dir/Src/sysmem.c.obj	8f76a41a1e64f345
+693	970	7590872187937054	CMakeFiles/4100901-Access_Control_System.dir/Startup/startup_stm32l476rgtx.s.obj	a6c95fee6d159213
+971	1389	7590872191040893	4100901-Access_Control_System.elf	a24e695bb57664a8
